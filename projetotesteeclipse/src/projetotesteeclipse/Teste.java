@@ -6,5 +6,6 @@ public class Teste
 	{
 		System.out.println("Oi!");
 		System.out.println("oiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii");
+		System.out.println("Adicionando uma terceira linha para um quarto commit.");
 	}
 }
